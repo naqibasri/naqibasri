@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey there, I am Naqib Asri from Kuala Lumpur, Malaysia.👋
 
-<!--
-**naqibasri/naqibasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a certified Junior Data Scientist by The Center of Applied Data Science (CADS) and a graduate of Mechanical Engineering from Universiti Teknologi Petronas. 
+Passionate about improving the world with the help of data.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things I am good at 🌱
+
+**Industry Domain Knowledge:** Oil and Gas, Plant Facility Equipments, Process Piping Inspection.
+
+**Language:** Python, SQL.
+
+**Data Science toolkit:** Apache Spark, MongoDB, PostgreSQL, Talent Open Studio, Tableau, Power BI.
+
+
+### 📫 How to reach me:
+[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wasap.my/60134412651)
+[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/naqibasri/)
