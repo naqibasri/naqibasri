@@ -12,5 +12,4 @@ I am a certified Junior Data Scientist by The Center of Applied Data Science (CA
 
 
 ### 📫 How to reach me:
-[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wasap.my/60134412651)
 [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/naqibasri/)
