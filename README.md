@@ -1,10 +1,8 @@
-### Hey there, I am Naqib Asri from Kuala Lumpur, Malaysia.👋
+### 👋 Hey there, I am Naqib Asri from Kuala Lumpur, Malaysia.
 
 I am a certified Junior Data Scientist by The Center of Applied Data Science (CADS) and a graduate of Mechanical Engineering from Universiti Teknologi Petronas. 
-Passionate about improving the world with the help of data.
 
-
-### Things I am good at 🌱
+### 🌱 Things I am good at:
 
 **Industry Domain Knowledge:** Oil and Gas, Plant Facility Equipments, Process Piping Inspection.
 
