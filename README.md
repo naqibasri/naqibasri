@@ -8,7 +8,7 @@ I am a certified Junior Data Scientist by The Center of Applied Data Science (CA
 
 **Language:** Python, SQL.
 
-**Data Science toolkit:** TensorFlow, SKlearn, Keras, Apache Spark, MongoDB, PostgreSQL, Talend Open Studio, Tableau, Power BI.
+**Data Science toolkit:** TensorFlow, SKlearn, Keras, Apache Spark, MongoDB, Talend Open Studio, Tableau, Power BI.
 
 
 ### 📫 How to reach me:
