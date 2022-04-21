@@ -8,7 +8,7 @@ I am a graduate of Mechanical Engineering from Universiti Teknologi Petronas and
 
 **Language:** Python, SQL.
 
-**Data Science toolkit:** TensorFlow, SKlearn, Keras, Apache Spark, MongoDB, Talend Open Studio, Tableau, Power BI.
+**Data Science toolkit:** SKlearn, TensorFlow, Keras, Apache Spark, MongoDB, Talend Open Studio, Tableau, Power BI.
 
 
 ### 📫 How to reach me:
