@@ -4,7 +4,7 @@ I am a graduate of Mechanical Engineering from Universiti Teknologi Petronas and
 
 ### 🌱 Things I am good at:
 
-**Industry Domain Knowledge:** Oil and Gas, Plant Facility Equipments, Process Piping Inspection.
+**Industry Domain Knowledge:** Oil and Gas, Manufacturing Process, Plant Facility Equipments, Process Piping Inspection.
 
 **Language:** Python, SQL.
 
