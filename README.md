@@ -8,7 +8,7 @@ I am a graduate of Mechanical Engineering from Universiti Teknologi Petronas and
 
 **Language:** Python, SQL.
 
-**Data Science toolkit:** SKlearn, TensorFlow, Keras, Apache Spark, MongoDB, Talend Open Studio, Power BI.
+**Data Science toolkit:** SKlearn, TensorFlow, Keras, Apache Spark, MongoDB, Talend Open Studio, Power BI, Google Apps Script.
 
 **Kindly visit my very humble GitHub portfolio at** https://naqibasri.github.io/NaqibAsri_Portfolio
 
